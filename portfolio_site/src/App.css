@@ -1,0 +1,42 @@
+a:-webkit-any-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+/* button {
+    color: var(--text-primary);
+    background-color: var(--background);
+    border: 2px var(--text-primary) solid;
+    float: right;
+    transition: all .5s;
+} */
+
+/* styling the navbar */
+/* .navbar {
+    padding: 10px 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+/* .nav-info {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+} */
+
+/* styling the moon and sun button */
+/* .moon-sun {
+    border: none;
+    background-color: transparent;
+    size: 20px;
+} */
